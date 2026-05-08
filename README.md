@@ -114,9 +114,9 @@ npx expo start
 
 ## 📱 Demonstração
 
-| Boas-Vindas | Cadastro | Preview |
-|---|---|---|
-| <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (1).png" width="200" /> | <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (2).png" width="200" /> | <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (3).png" width="200" /> |
+| Boas-Vindas | Cadastro | Preview | Sucesso |
+|---|---|---|---|
+| <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (1).png" width="200" /> | <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (2).png" width="200" /> | <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (3).png" width="200" /> | <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (4).png" width="200" /> |
 
 ---
 
