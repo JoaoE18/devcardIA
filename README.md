@@ -116,7 +116,7 @@ npx expo start
 
 | Boas-Vindas | Cadastro | Preview |
 |---|---|---|
-| <img src="./assets/screenshots/home.png" width="200" /> | <img src="./assets/screenshots/form.png" width="200" /> | <img src="./assets/screenshots/preview.png" width="200" /> |
+| <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (1).png" width="200" /> | <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (2).png" width="200" /> | <img src="./assets/screenshots/Google-Pixel-6-PRO-localhost (3).png" width="200" /> |
 
 ---
 
