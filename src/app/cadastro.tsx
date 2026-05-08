@@ -36,22 +36,22 @@ export default function Cadastro() {
       <Text style={styles.header}>Cadastro</Text>
       
       <Text style={styles.label}>Nome completo</Text>
-      <TextInput style={styles.input} value={nome} onChangeText={setNome} placeholder="João Silva" />
+      <TextInput style={styles.input} value={nome} onChangeText={setNome} placeholder="Alan Ferreira" />
       {erros.nome && <Text style={styles.error}>{erros.nome}</Text>} 
 
       <Text style={styles.label}>Cargo</Text>
-      <TextInput style={styles.input} value={cargo} onChangeText={setCargo} placeholder="Desenvolvedor Mobile" />
+      <TextInput style={styles.input} value={cargo} onChangeText={setCargo} placeholder="Desenvolvedor" />
       {erros.cargo && <Text style={styles.error}>{erros.cargo}</Text>}
 
       <Text style={styles.label}>Empresa (opcional)</Text>
-      <TextInput style={styles.input} value={empresa} onChangeText={setEmpresa} placeholder="Tech Solutions" />
+      <TextInput style={styles.input} value={empresa} onChangeText={setEmpresa} placeholder="Digital Tech" />
 
       <Text style={styles.label}>Anos de experiência</Text>
-      <TextInput style={styles.input} value={anos} onChangeText={setAnos} keyboardType="numeric" placeholder="4" /> 
+      <TextInput style={styles.input} value={anos} onChangeText={setAnos} keyboardType="numeric" placeholder="1" /> 
       {erros.anos && <Text style={styles.error}>{erros.anos}</Text>}
 
       <Text style={styles.label}>Tecnologia favorita</Text>
-      <TextInput style={styles.input} value={tecnologia} onChangeText={setTecnologia} placeholder="React Native" />
+      <TextInput style={styles.input} value={tecnologia} onChangeText={setTecnologia} placeholder="React" />
       {erros.tecnologia && <Text style={styles.error}>{erros.tecnologia}</Text>}
 
       <Text style={styles.label}>Cor do cartão</Text>
@@ -125,12 +125,12 @@ const styles = StyleSheet.create({
     },
 
     colorSelected: { 
-        borderColor: '#6366f1', 
+        borderColor: '#6300e6', 
         backgroundColor: '#e0e7ff' 
     },
 
     textSelected: { 
-        color: '#6366f1', 
+        color: '#6300e6', 
         fontWeight: 'bold' 
     },
 
@@ -139,7 +139,7 @@ const styles = StyleSheet.create({
     },
 
     submitBtn: { 
-        backgroundColor: '#6366f1', 
+        backgroundColor: '#6300e6', 
         padding: 15, 
         borderRadius: 10, 
         alignItems: 'center', 
